@@ -1,4 +1,4 @@
 # LasVegas Dicee
 Dice App for iOS
 
-![app demo](Demo)
+![app demo](Demo.gif)
